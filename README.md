@@ -1,4 +1,4 @@
-# Hi there, I'm Amondi 👋
+# Hi there,👋
 
 **Data Analyst | SQL | Python | Power BI**
 
